@@ -1,0 +1,43 @@
+h1{
+ color: red;
+}
+
+h3{
+font-size:  27px; ;
+color: blue;
+}
+
+#texte1{
+
+    background-color: grey;
+}
+
+#texte2{
+
+    background-color: grey;
+}
+
+#texte3{
+
+    background-color: pink;
+}
+
+strong{
+    font-weight: normal;
+    color: aquamarine;
+}
+
+em{
+
+    font-style: normal;
+text-decoration: underline;
+color: orange;
+}
+
+h3:nth-child(4n) {
+
+    color: green;
+    text-decoration: underline;
+    margin-left: 500px ;
+
+}
